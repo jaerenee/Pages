@@ -1,0 +1,13 @@
+reference images by
+
+ <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/"".jpg" width="325" height="325" class="img-responsive img-circle" alt="">
+                        
+<div class="column">
+    <a href="https://cougarcs.com/">
+        <img src="img/logos/cougarcs.png" class="img-responsive img-centered" alt="" width = "400" height = "220">
+    </a>
+</div>
