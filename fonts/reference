@@ -1,3 +1,11 @@
 How to add font
 
 https://www.fontspace.com/cinnamon-coffe-cake-font-f76345
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titan+One|Patrick+Hand|Luckiest+Guy">
+      <style>
+      #heading{
+            font-family: "Luckiest Guy", "Titan One", "Copperplate";
+            font-size: 30px;
+            text-shadow: 3px 3px 3px #ababab;
+      }
