@@ -1,2 +1,9 @@
 #heading{
             backgroung}
+
+includes
+- image modal pop up with x
+- 
+
+needs
+- x is in top corner of entire screen not of modal and doesn't appear unless hovered over
