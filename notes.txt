@@ -3,7 +3,7 @@
 
 includes
 - image modal pop up with x
-- 
+- fonts from google fonts
 
 needs
 - x is in top corner of entire screen not of modal and doesn't appear unless hovered over
